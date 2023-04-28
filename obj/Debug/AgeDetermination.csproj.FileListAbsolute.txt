@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\bin\Debug\AgeDetermination.exe.config
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\bin\Debug\AgeDetermination.exe
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\bin\Debug\AgeDetermination.pdb
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\obj\Debug\AgeDetermination.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\obj\Debug\AgeDetermination.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\obj\Debug\AgeDetermination.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\obj\Debug\AgeDetermination.exe
+C:\Users\Uday\OneDrive\Desktop\AgeDetermination\obj\Debug\AgeDetermination.pdb
